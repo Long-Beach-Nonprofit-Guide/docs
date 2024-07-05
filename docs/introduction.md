@@ -1,9 +1,11 @@
 # Introduction
 
-The process of applying for 501c3 status with the IRS can be complex and time-consuming. This guide is intended to help you navigate the process and understand what you need to do to apply for 501c3 status. It is not intended to be a comprehensive guide, but rather a starting point to help you get started.
+Welcome to the Long Beach Nonprofit Guide! This guide is based on my experience in establishing a 501c3 nonprofit organization in Long Beach, California. I found the process to be challenging and complex, but ultimately rewarding. Throughout the process I found myself wishing for a guide that would walk me through each step, so I decided to create one myself. This guide is in no way comprehensive, but it does provide a reasonable overview of the process of establishing a 501c3 nonprofit organization in Long Beach and outlines the steps that I took to do so. Good luck!
 
-Resources are provided throughout the guide to help you find more information and assistance as needed. These resources include links to IRS forms and instructions, as well as other helpful websites and organizations that can provide additional guidance. The resources are updated regularly to ensure that you have access to the most current information available.
+## How to use this guide
 
-The guide is divided into several sections, each covering a different aspect of the application process. The sections are designed to be read in order, as each one builds on the information provided in the previous sections. However, you can skip around as needed to find the information that is most relevant to your situation.
+This guide is intended to be used as a step-by-step overview of the process of establishing a 501c3 nonprofit organization in Long Beach, California. It is designed to help individuals and groups who are interested in starting a nonprofit navigate the legal and administrative requirements involved in the process. The guide is organized into a series of steps, each of which corresponds to a specific task or milestone in the process. You can follow the steps in order, or skip around as needed. The guide is intended to be a starting point for your journey, and you may need to seek additional resources or assistance along the way.
 
-I found this guide to be very helpful when I was applying for 501c3 status with the IRS. It provided me with a clear understanding of the process and what was required of me. I hope that you find it helpful as well. Good luck with your application!
+## Disclaimer
+
+This guide is not legal advice and should not be taken as such. It is intended to provide general information about the process of applying for 501c3 status with the IRS. If you have specific legal questions or concerns, you should consult with an attorney or other legal professional.
