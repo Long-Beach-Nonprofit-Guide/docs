@@ -20,6 +20,10 @@ Due to these considerations, I wanted to first draft the articles of incorporati
 
 1. **Board review**: I presented the draft articles of incorporation to the board at the initial board meeting for review and approval.
 
+## Outcomes
+
+Drafted articles of incorporation for the organization ready for board approval.
+
 ## Cost
 
 - None

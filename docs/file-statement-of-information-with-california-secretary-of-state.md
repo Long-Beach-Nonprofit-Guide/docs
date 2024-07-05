@@ -18,6 +18,10 @@ After I filed for tax exemption at the state (California Franchise Tax Board) an
 
 1. **Wait for confirmation**: After the form has been submitted, the organization must wait for confirmation from the California Secretary of State that the statement of information has been accepted and processed. You can check the status of your filing on the California Secretary of State's website.
 
+## Outcomes
+
+Filed a statement of information with the California Secretary of State. The organization is now in compliance with state filing requirements.
+
 ## Cost
 
 | Item                   | Cost  |

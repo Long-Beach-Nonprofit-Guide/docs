@@ -1,4 +1,4 @@
-# Digital Infrastructure
+# Digital infrastructure
 
 ## Overview
 
@@ -20,6 +20,15 @@ Once I had the name chosen and reserved, the next step was to set up the digital
 1. **Google Workspace:** Once I had a domain name, I signed up for Google Workspace. One of the benefits of the Google Workspace sign up process is that it includes domain purchase/registration. This made it easy to set up business email addresses using the organization's domain name. Google Workspace also provides a suite of tools for collaboration and communication, including Gmail, Google Drive, Google Calendar, and Google Meet. I chose Google Workspace because it was affordable, easy to use, and provided the tools that I needed to get the organization up and running quickly. Not only that, but it's also free for nonprofits through the Google for Nonprofits program! So once I had the 501c3 determination letter from the IRS, I could apply for the Google for Nonprofits program and get Google Workspace for free.
 
 1. **Google Voice:** I also signed up for Google Voice, which is a virtual phone service that provides a phone number that can be used for business calls and text messages. Google Voice integrates with Google Workspace, so I was able to set up a business phone number that was linked to the organization's email addresses. This made it easy to manage business communications and keep everything in one place. Google Voice is also relatively inexpensive, and provides a lot of features that are useful for small organizations, like call forwarding, voicemail transcription, and text messaging.
+
+## Outcomes
+
+The digital infrastructure for the organization was established, including:
+
+1. A domain name for the organization that is registered with Google Domains.
+1. Business email addresses for the organization that are set up through Google Workspace.
+1. A digital workspace for the organization that includes Gmail, Google Drive, Google Calendar, and Google Meet.
+1. A business phone number for the organization that is set up through Google Voice.
 
 ## Cost
 

@@ -17,6 +17,10 @@ Finally, the time has come to file for 501c3 status with the IRS. This is the la
 
 1. **Wait for a determination**: After the application has been submitted, the organization must wait for the IRS to review the application and make a determination on its 501c3 status. The IRS aims to process Form 1023-EZ applications within 2-4 weeks, while Form 1023 applications can take 3-6 months or longer to process. Once the organization has been granted 501c3 status, it will receive a determination letter from the IRS confirming its tax-exempt status.
 
+## Outcomes
+
+501c3 status granted by the IRS. The organization is now eligible to receive tax-deductible donations and apply for grants from foundations and government agencies.
+
 ## Cost
 
 | Item                           | Cost     |

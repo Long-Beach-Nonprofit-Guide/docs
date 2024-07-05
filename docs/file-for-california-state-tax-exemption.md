@@ -18,6 +18,10 @@ In addition to filing for federal tax-exempt status with the IRS, nonprofit orga
 
 1. **Wait for a determination**: After the application has been submitted, the organization must wait for the California Franchise Tax Board to review the application and make a determination on its state tax-exempt status. The FTB aims to process exemption applications within 90 days. Once the organization has been granted state tax-exempt status, it will receive a determination letter from the FTB confirming its exemption from California state income tax.
 
+## Outcomes
+
+Filed for California state tax exemption with the California Franchise Tax Board. The organization is now exempt from paying California state income tax on its income.
+
 ## Cost
 
 - None

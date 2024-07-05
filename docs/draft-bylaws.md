@@ -14,6 +14,10 @@ I pulled heavily from the Public Counsel template to draft the bylaws for the or
 
 One of the only sections that I wanted to expand on in the bylaws was the roles and responsibilities of the organization's officers. California law requires that a nonprofit public benefit corporation have at least three officers: a president, a secretary, and a treasurer. This is a requirement when filing the ongoing compliance Statement of Information document with the California Secretary of State. Since I wasn't going to be a part of the organization long-term, I wanted to ensure that the bylaws were clear about which officers were responsible for which tasks to maintain the organization's compliance. If the board decided to add additional officers in the future, or change the responsibilities of the existing officers, the bylaws would need to be amended accordingly.
 
+## Outcomes
+
+Drafted bylaws for the organization ready for board approval.
+
 ## Cost
 
 - None

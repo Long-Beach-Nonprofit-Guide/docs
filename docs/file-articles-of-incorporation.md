@@ -20,6 +20,12 @@ The process of filing the articles of incorporation with the California Secretar
 
 1. **Submit the form:** Once you have completed the form and paid the filing fee, you can submit the articles of incorporation online.
 
+1. **Wait for confirmation:** After the articles of incorporation have been submitted, you will need to wait for confirmation from the California Secretary of State that the articles have been accepted and processed. You can check the status of your filing on the California Secretary of State's website.
+
+## Outcomes
+
+Filed articles of incorporation with the California Secretary of State. The organization is now a legal entity in the state of California.
+
 ## Cost
 
 | Item                   | Cost     |

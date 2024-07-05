@@ -18,6 +18,10 @@ There were a few prerequisites that I wanted to decided on before I could move f
 
 1. **Reserve name:** Once I had chosen a name that was available, I reserved the name with the California Secretary of State. This involved submitting a Name Reservation Request form and paying a fee. The name reservation was valid for 60 days, during which time I needed to file the articles of incorporation with the Secretary of State. I wanted to reserve the name first so that I could draft the organization documents with the name in mind, and get them approved by the board during the initial board meeting **before** filing the articles of incorporation. This would ensure that the name was approved by the board and that I would not have to amend the articles of incorporation later.
 
+## Outcomes
+
+An available name for the organization that is reserved with the California Secretary of State.
+
 ## Cost
 
 | Item | Cost |

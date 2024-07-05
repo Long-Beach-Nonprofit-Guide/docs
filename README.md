@@ -4,4 +4,4 @@ This guide is designed to help you navigate the process of starting a nonprofit 
 
 ## Legal Disclaimer
 
-Please note that this guide is not a substitute for professional legal or financial advice, and you should consult with an attorney or accountant before taking any action.**
+Please note that this guide is not a substitute for professional legal or financial advice, and you should consult with an attorney or accountant before taking any action.

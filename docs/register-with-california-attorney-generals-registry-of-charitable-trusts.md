@@ -19,6 +19,10 @@ After I received my federal 501c3 determination letter from the IRS, the next st
 
 1. **Wait for confirmation**: After the form has been submitted, the organization must wait for confirmation from the California Attorney General that the registration has been accepted and processed. You can check the status of your registration on the California Attorney General's website.
 
+## Outcomes
+
+Registered with the California Attorney General's Registry of Charitable Trusts. The organization is now in compliance with California law and is authorized to solicit donations in the state.
+
 ## Cost
 
 | Item                   | Cost  |

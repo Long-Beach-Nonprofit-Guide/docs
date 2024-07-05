@@ -16,6 +16,10 @@ Once the articles of incorporation have been filed with the California Secretary
 
 1. **Save your EIN confirmation letter**: After you have received your EIN, be sure to save the confirmation letter that the IRS sends you. This letter contains your EIN and should be kept in a safe place for future reference. I suggest uploading a copy of the letter to your organization's Google Drive for easy access.
 
+## Outcomes
+
+An Employer Identification Number (EIN) for the organization. The organization is now able to open a bank account, apply for tax-exempt status, and file tax returns.
+
 ## Cost
 
 - None

@@ -21,6 +21,12 @@ Additionally, you can apply for an exemption from the business license tax if yo
 
 1. **Submit the application**: After completing the application and exemption form, I submitted them to the City of Long Beach.
 
+1. **Wait for approval**: After submitting the application, I had to wait for the City of Long Beach to review the application and make a determination on the business license and exemption. Once the application was approved, I received a business license from the city.
+
+## Outcomes
+
+Obtained a business license from the City of Long Beach. The organization is now authorized to operate within the city limits and is in compliance with local regulations.
+
 ## Cost
 
 - None w/ 501c3 exemption

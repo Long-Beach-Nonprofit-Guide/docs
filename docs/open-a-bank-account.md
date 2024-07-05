@@ -6,7 +6,7 @@ Once I had the Employer Identification Number (EIN) in hand, the next step was t
 
 ## Resources
 
-- [BlueVine How to Apply](https://www.bluevine.com/guides/checking/how-to-apply)
+- [BlueVine: How to Apply](https://www.bluevine.com/guides/checking/how-to-apply)
 
 ## Process
 
@@ -24,6 +24,10 @@ Once I had the Employer Identification Number (EIN) in hand, the next step was t
     - Business formation documents (articles of incorporation, bylaws, etc.)
 
 1. **Apply online**: I applied for the account online through the BlueVine website.
+
+## Outcomes
+
+Opened a bank account for the organization with BlueVine. The organization now has a separate bank account to manage its finances.
 
 ## Cost
 
