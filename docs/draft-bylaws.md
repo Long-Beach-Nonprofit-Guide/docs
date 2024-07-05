@@ -1,5 +1,7 @@
 # Draft bylaws
 
+## Overview
+
 The bylaws are the rules and regulations that govern the internal operations of the organization. They are adopted by the board of directors and outline the structure, powers, and responsibilities of the board and officers. The bylaws also establish the procedures for holding meetings, electing directors, and making decisions. They are an important document that helps ensure that the organization operates in a transparent, accountable, and effective manner. Once I had drafted the articles of incorporation, the next step was to prepare a draft of the bylaws for approval by the board at the initial board meeting.
 
 ## Resources

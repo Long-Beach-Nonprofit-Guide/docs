@@ -1,5 +1,7 @@
 # Digital Infrastructure
 
+## Overview
+
 Once I had the name chosen and reserved, the next step was to set up the digital infrastructure for the organization. This included choosing a domain name, setting up business email addresses and establishing a digital workspace for the organization. This was a prerequisite step for not only establishing a nonprofit organization, but also to establish the necessary infrastructure to make the organization operational. Most importantly, having business email addresses and a digital workspace before starting the tax exemption application process ensured that all of the organization's communications and documents were in one place and could be easily accessed and shared by the board and other stakeholders.
 
 ## Resources
@@ -26,4 +28,4 @@ Once I had the name chosen and reserved, the next step was to set up the digital
 | Domain Name | $12/year |
 | Google Workspace | $6/user/month |
 | Google Voice | $10/month |
-| Total | $17/month _(assuming a single Workspace user)_ |
+| **Total** | **$17/month _(assuming a single Workspace user)_** |

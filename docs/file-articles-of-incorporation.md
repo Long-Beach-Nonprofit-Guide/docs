@@ -1,5 +1,7 @@
 # File articles of incorporation
 
+## Overview
+
 Once the board had approved the draft articles of incorporation at the initial board meeting, the next step was to file the articles with the California Secretary of State. This step is necessary to establish the organization as a legal entity in the state of California. The articles of incorporation are the legal document that creates the organization and sets forth its purpose, powers, and structure. The articles must be filed with the California Secretary of State in order to form a nonprofit public benefit corporation.
 
 ## Resources

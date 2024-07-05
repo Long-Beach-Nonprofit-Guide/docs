@@ -1,35 +1,26 @@
 # Obtain Long Beach business license
 
-A business license is a legal requirement for operating a business in Long Beach, California. It is issued by the City of Long Beach and is necessary to ensure that your business complies with local regulations and ordinances.
+## Overview
 
-## Why is a Long Beach business license important?
+After I received my 501c3 determination letter from the IRS, the next step was to obtain a business license from the City of Long Beach. This license is required for all businesses operating within the city limits, including nonprofit organizations. The business license is used to track businesses operating in the city and to ensure compliance with local regulations.
 
-A Long Beach business license is important for several reasons:
+Additionally, you can apply for an exemption from the business license tax if your organization meets certain criteria. For example, charitable organizations that are exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code are eligible for an exemption from the business license tax.
 
-1. **Legal compliance:** A business license is a legal requirement for operating a business in Long Beach. Failure to obtain a business license can result in fines, penalties, or legal action.
+## Resources
 
-2. **Regulatory compliance:** A business license ensures that your business complies with local regulations and ordinances. It helps protect the health, safety, and welfare of the community by ensuring that businesses operate in a responsible and ethical manner.
+- [City of Long Beach: General Business License](https://www.longbeach.gov/finance/business-info/business-licenses/general-business-license/)
+- [City of Long Beach: Business License Exemptions](https://longbeach.gov/finance/business-info/business-licenses/exemptions/)
 
-3. **Tax compliance:** A business license may be required for tax purposes, such as sales tax collection or payroll taxes. It helps the City of Long Beach track and collect taxes from businesses operating within its jurisdiction.
+## Process
 
-4. **Professionalism:** Having a business license demonstrates that your business is legitimate and professional. It can help build trust with customers, suppliers, and other stakeholders and enhance your business's reputation.
+1. **Determine the type of business license**: The first step in obtaining a business license is to determine the type of license that is required for your organization. The City of Long Beach offers several different types of business licenses, depending on the type of business and the location of the business. For the purposes of a nonprofit organization, you will likely need a general business license.
 
-## How to obtain a Long Beach business license
+1. **Complete the application**: Once you have determined the type of license that is required, you will need to complete the business license application. The application requires information about the organization, including its name, address, purpose, and activities.
 
-Obtaining a Long Beach business license involves several key steps:
+1. **Complete the exemption form**: Since I had received my 501c3 determination letter from the IRS, I was eligible for an exemption from the business license tax. To apply for the exemption, I had to complete an exemption form and include it, along with other supporting documentation, with my business license application.
 
-1. **Determine your business type:** Before applying for a business license, determine the type of business you are operating. Different types of businesses may require different licenses or permits.
+1. **Submit the application**: After completing the application and exemption form, I submitted them to the City of Long Beach.
 
-2. **Check for zoning requirements:** Check with the City of Long Beach to determine if your business location is zoned for the type of business you plan to operate. Zoning regulations may restrict certain types of businesses in specific areas.
+## Cost
 
-3. **Apply for a business license:** To apply for a Long Beach business license, visit the City of Long Beach's [Business License Division](http://www.longbeach.gov/finance/business-info/business-licenses/) website. You can apply for a business license online, by mail, or in person.
-
-4. **Pay the license fee:** There is a fee associated with obtaining a Long Beach business license. The fee varies depending on the type of business and the number of employees. Be sure to include the correct fee with your application to avoid delays in processing.
-
-5. **Submit the required documentation:** You may need to provide additional documentation with your business license application, such as proof of insurance, a fictitious business name statement, or a seller's permit. Make sure to include all required documentation to avoid delays in processing.
-
-6. **Wait for approval:** After submitting your business license application and fee, wait for approval from the City of Long Beach. Once your application is approved, you will receive your business license, which you should prominently display at your place of business.
-
-## Conclusion
-
-Obtaining a Long Beach business license is an important step in establishing your business in Long Beach, California. By obtaining a business license, you can ensure that your business complies with local regulations and ordinances, maintains tax compliance, and operates in a professional and responsible manner. With the right guidance and resources, you can successfully obtain a Long Beach business license and set your business up for long-term success. The following sections will provide more detailed information on each of these steps and will help guide you through the process of obtaining a Long Beach business license.
+- None w/ 501c3 exemption

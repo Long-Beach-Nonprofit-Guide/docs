@@ -1,25 +1,7 @@
 # Long Beach Nonprofit Guide
 
-## Table of Contents
+This guide is designed to help you navigate the process of starting a nonprofit organization in Long Beach, California. It's based on my experience starting a nonprofit organization in Long Beach and is intended to provide a general overview of the steps involved in the process. Head over to the [Introduction](docs/introduction.md) to get started.
 
-1. [Introduction](docs/introduction.md)
-1. [What is a 501c3?](docs/what-is-a-501c3.md)
-1. [Benefits of 501c3 Status](docs/benefits-of-501c3-status.md)
-1. [Eligibility Requirements](docs/eligibility-requirements.md)
-1. [Choosing a name](docs/choosing-a-name.md)
-1. [Choosing a domain name](docs/choosing-a-domain-name.md)
-1. [Setting up digital infrastructure](docs/setting-up-digital-infrastructure.md)
-1. [Draft articles of incorporation](docs/draft-articles-of-incorporation.md)
-1. [Draft bylaws](docs/draft-bylaws.md)
-1. [Initial board meeting](docs/initial-board-meeting.md)
-1. [File articles of incorporation](docs/file-articles-of-incorporation.md)
-1. [Apply for an EIN](docs/apply-for-an-ein.md)
-1. [Financial infrastructure](docs/financial-infrastructure.md)
-1. [File for 501c3 status with IRS](docs/file-for-501c3-status-with-irs.md)
-1. [File for California state tax exemption](docs/file-for-california-state-tax-exemption.md)
-1. [File statement of information with California Secretary of State](docs/file-statement-of-information-with-california-secretary-of-state.md)
-1. [Register with California Attorney General's Registry of Charitable Trusts](docs/register-with-california-attorney-generals-registry-of-charitable-trusts.md)
-1. [Obtain Long Beach business license](docs/obtain-long-beach-business-license.md)
-1. [Purchase nonprofit insurance](docs/purchase-nonprofit-insurance.md)
-1. [Join TechSoup](docs/join-techsoup.md)
-1. [Ensuring ongoing compliance](docs/ensuring-ongoing-compliance.md)
+## Legal Disclaimer
+
+Please note that this guide is not a substitute for professional legal or financial advice, and you should consult with an attorney or accountant before taking any action.**

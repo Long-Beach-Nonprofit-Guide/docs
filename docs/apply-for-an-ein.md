@@ -1,33 +1,21 @@
 # Apply for an EIN
 
-An Employer Identification Number (EIN) is a unique nine-digit number assigned by the Internal Revenue Service (IRS) to identify your organization for tax purposes. If you plan to apply for 501c3 status, you will need an EIN to complete the application process.
+## Overview
 
-## Why is an EIN important?
+Once the articles of incorporation have been filed with the California Secretary of State, the next step is to apply for an Employer Identification Number (EIN) with the Internal Revenue Service (IRS). The EIN is a unique nine-digit number that is assigned to a business entity for tax filing and reporting purposes. The EIN is used to identify the organization to the IRS and other federal agencies, and is required for a variety of purposes, including opening a bank account, applying for tax-exempt status, and filing tax returns.
 
-An EIN is important for several reasons:
+## Resources
 
-1. **Tax purposes:** An EIN is used to identify your organization for tax purposes. It is required for filing tax returns, applying for tax-exempt status, and reporting wages and other payments to the IRS.
+- [IRS EIN Application](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
 
-2. **Opening a bank account:** An EIN is required to open a bank account in your organization's name. Having a separate bank account for your organization is important for managing its finances and ensuring that funds are used for their intended purposes.
+## Process
 
-3. **Hiring employees:** If your organization plans to hire employees, you will need an EIN to report wages and other payments to the IRS. An EIN is also required for reporting employment taxes and other tax-related information.
+1. **Gather required information**: Before starting the application process, make sure you have all of the required information on hand. This includes the legal name of the organization, the address of the organization, the name and address of the responsible party, and the type of entity (e.g. corporation, partnership, etc.).
 
-4. **Applying for 501c3 status:** An EIN is required to apply for 501c3 status from the IRS. The EIN is used to identify your organization in the application process and is included in the determination letter issued by the IRS.
+1. **Complete the online application**: The fastest and easiest way to apply for an EIN is to complete the online application on the IRS website. The application is free and can be completed in a matter of minutes. Once you have submitted the application, you will receive your EIN immediately.
 
-5. **Legal requirements:** An EIN is required for certain legal transactions, such as applying for business licenses, entering into contracts, and applying for grants and loans.
+1. **Save your EIN confirmation letter**: After you have received your EIN, be sure to save the confirmation letter that the IRS sends you. This letter contains your EIN and should be kept in a safe place for future reference. I suggest uploading a copy of the letter to your organization's Google Drive for easy access.
 
-## How to apply for an EIN
+## Cost
 
-Applying for an EIN is a simple process that can be completed online through the IRS website. To apply for an EIN, follow these steps:
-
-1. **Go to the IRS website:** Visit the [IRS website](https://www.irs.gov/) and search for "Apply for an EIN" to access the online application.
-
-2. **Complete the online application:** Fill out the online application form with information about your organization, such as its name, address, and purpose. You will also need to provide information about the organization's structure, such as the number of employees and the type of business.
-
-3. **Submit the application:** Once you have completed the online application, submit it to the IRS for processing. You will receive an EIN immediately upon approval, which you can use for tax purposes, opening a bank account, and applying for 501c3 status.
-
-4. **Keep a record of your EIN:** Once you receive your EIN, be sure to keep a record of it in a safe place. You will need to provide your EIN on tax returns, applications for tax-exempt status, and other tax-related documents.
-
-## Conclusion
-
-Applying for an EIN is an important step in establishing your organization's legal identity and obtaining 501c3 status. By obtaining an EIN, you can identify your organization for tax purposes, open a bank account, hire employees, and comply with legal requirements. With an EIN in hand, you can move forward with confidence in your organization's future success.
+- None
