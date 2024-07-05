@@ -1,9 +1,5 @@
 # Long Beach Nonprofit Guide
 
-This guide is intended to provide a step-by-step overview of the process of establishing a 501c3 nonprofit organization in Long Beach, California. It is designed to help individuals and groups who are interested in starting a nonprofit navigate the legal and administrative requirements involved in the process. This guide focuses specifically on the process for establishing a 501c3 public charity organized as a public benefit corporation in California. It is based on the author's experience in establishing a nonprofit organization in Long Beach and is intended to provide general information and guidance to others who are considering doing the same. Good luck!
-
-**Disclaimer:** This guide is not legal advice and should not be taken as such. It is intended to provide general information about the process of applying for 501c3 status with the IRS. If you have specific legal questions or concerns, you should consult with an attorney or other legal professional.
-
 ## Table of Contents
 
 1. [Introduction](docs/introduction.md)
