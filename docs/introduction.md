@@ -27,3 +27,12 @@ Each step section includes a brief overview of the task, a list of resources, a 
 1. [File statement of information with California Secretary of State](file-statement-of-information-with-california-secretary-of-state.md)
 1. [Register with California Attorney General's Registry of Charitable Trusts](register-with-california-attorney-generals-registry-of-charitable-trusts.md)
 1. [Obtain Long Beach business license](obtain-long-beach-business-license.md)
+
+## Resources
+
+Here are some additional resources that I found helpful in the process of establishing a 501c3 nonprofit organization:
+
+1. [Attorney General's Guide for Charities](https://www.oag.ca.gov/system/files/media/Guide%20for%20Charities.pdf)
+1. [Public Counsel: Guide to Forming A Charitable, Tax-Exempt, Nonprofit Organization](https://publiccounsel.org/publications/guide-to-forming-a-charitable-tax-exempt-nonprofit-organization-2020/)
+1. [IRS: Life Cycle of a Public Charity](https://www.irs.gov/charities-non-profits/charitable-organizations/life-cycle-of-a-public-charity)
+1. [IRS: Stay Exempt](https://www.stayexempt.irs.gov/)
