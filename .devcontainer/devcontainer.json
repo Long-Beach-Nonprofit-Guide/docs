@@ -1,0 +1,4 @@
+{
+    "image": "node:lts",
+    "forwardPorts": [4321]
+}
