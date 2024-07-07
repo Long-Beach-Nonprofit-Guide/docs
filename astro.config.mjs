@@ -8,6 +8,25 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Long Beach Nonprofit Guide',
+			head: [
+				{
+					tag: 'script',
+					attributes: {
+						src: 'https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL',
+						async: true,
+					},
+				},
+				{
+					tag: 'script',
+					content: `
+						window.dataLayer = window.dataLayer || [];
+						function gtag(){dataLayer.push(arguments);}
+						gtag('js', new Date());
+
+						gtag('config', 'G-6M8JZNTXEL');
+					`,
+				},
+			],
 			social: {
 				github: 'https://github.com/pmwells/lb-nonprofit-guide',
 			},
