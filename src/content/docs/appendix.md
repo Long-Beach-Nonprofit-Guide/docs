@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Appendix
 prev: false
 ---
 

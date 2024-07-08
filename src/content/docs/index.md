@@ -14,8 +14,8 @@ hero:
       icon: right-arrow
       variant: primary
       link: /overview/
-    - text: Resources
+    - text: Appendix
       icon: open-book
       variant: secondary
-      link: /resources/
+      link: /appendix/
 ---

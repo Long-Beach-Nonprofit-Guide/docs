@@ -50,13 +50,13 @@ const sidebar: StarlightConfig["sidebar"] = [
     slug: "scope",
   },
   {
-    label: "Guide",
+    label: "Steps",
     autogenerate: {
-      directory: "guide",
+      directory: "steps",
     },
   },
   {
-    slug: "resources",
+    slug: "appendix",
   },
 ];
 
