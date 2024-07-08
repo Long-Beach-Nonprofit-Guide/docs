@@ -13,7 +13,7 @@ hero:
     - text: Get Started
       icon: right-arrow
       variant: primary
-      link: /start/introduction/
+      link: /overview/
     - text: Resources
       icon: open-book
       variant: secondary
