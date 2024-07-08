@@ -44,10 +44,7 @@ const social: StarlightConfig["social"] = {
  */
 const sidebar: StarlightConfig["sidebar"] = [
   {
-    label: "Start",
-    autogenerate: {
-      directory: "start",
-    },
+    slug: "overview",
   },
   {
     label: "Guide",
@@ -57,7 +54,8 @@ const sidebar: StarlightConfig["sidebar"] = [
   },
   {
     slug: "resources",
-  }];
+  },
+];
 
 /**
  * @type {StarlightConfig['head']}
