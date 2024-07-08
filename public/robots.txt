@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pmwells.github.io/lb-nonprofit-guide/sitemap-index.xml
+Sitemap: https://www.lbnonprofitguide.org/sitemap-index.xml

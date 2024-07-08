@@ -13,9 +13,9 @@ hero:
     - text: Get Started
       icon: right-arrow
       variant: primary
-      link: /lb-nonprofit-guide/start/introduction/
+      link: /start/introduction/
     - text: Resources
       icon: open-book
       variant: secondary
-      link: /lb-nonprofit-guide/resources/
+      link: /resources/
 ---

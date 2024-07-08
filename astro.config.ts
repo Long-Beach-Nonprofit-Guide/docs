@@ -15,12 +15,7 @@ const output: AstroConfig["output"] = "static";
 /**
  * @type {AstroConfig['site']}
  */
-const site: AstroConfig["site"] = "https://pmwells.github.io";
-
-/**
- * @type {AstroConfig['base']}
- */
-const base: AstroConfig["base"] = "lb-nonprofit-guide";
+const site: AstroConfig["site"] = "https://www.lbnonprofitguide.org";
 
 /**
  * The type of the Starlight config object.
@@ -106,7 +101,6 @@ if (import.meta.env.PROD) {
 export default defineConfig({
   output,
   site,
-  base,
   integrations: [
     sitemap(),
     starlight({
