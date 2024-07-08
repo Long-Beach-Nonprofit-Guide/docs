@@ -4,6 +4,7 @@ import starlight from "@astrojs/starlight";
 /**
  * The type of the Astro config object.
  */
+import sitemap from "@astrojs/sitemap";
 type AstroConfig = typeof defineConfig extends (config: infer T) => unknown ? T : never;
 
 /**
@@ -40,50 +41,80 @@ const description: StarlightConfig["description"] = "A guide to starting and run
  * @type {StarlightConfig['social']}
  */
 const social: StarlightConfig["social"] = {
-	github: "https://github.com/pmwells/lb-nonprofit-guide",
+  github: "https://github.com/pmwells/lb-nonprofit-guide",
 };
 
 /**
  * @type {StarlightConfig['sidebar']}
  */
 const sidebar: StarlightConfig["sidebar"] = [
-	{ label: "Start", autogenerate: { directory: "start" } },
-	{ label: "Guide", autogenerate: { directory: "guide" } },
-	{ slug: "resources" }
-];
+  {
+    label: "Start",
+    autogenerate: {
+      directory: "start",
+    },
+  },
+  {
+    label: "Guide",
+    autogenerate: {
+      directory: "guide",
+    },
+  },
+  {
+    slug: "resources",
+  }];
 
 /**
  * @type {StarlightConfig['head']}
  */
-const head: StarlightConfig["head"] = [];
+const head: StarlightConfig["head"] = [
+  {
+    tag: "link" as const,
+    attrs: {
+      rel: "sitemap",
+      href: "/sitemap-index.xml",
+    },
+  },
+];
 
 // Add Google Analytics script in production.
 if (import.meta.env.PROD) {
-	head.push({
-		tag: "script" as const,
-		attrs: {
-			src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
-			async: true,
-		},
-	});
-	head.push({
-		tag: "script" as const,
-		content: `
+  head.push({
+    tag: ("script" as const),
+    attrs: {
+      src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
+      async: true,
+    },
+  });
+  head.push({
+    tag: ("script" as const),
+    content: `
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
 			gtag('config', 'G-6M8JZNTXEL');
 		`,
-	});
+  });
 }
 
 /**
  * Define the Astro config object.
  */
+
+// https://astro.build/config
 export default defineConfig({
-	output,
-	site,
-	base,
-	integrations: [starlight({ title, description, social, sidebar, head, })],
+  output,
+  site,
+  base,
+  integrations: [
+    sitemap(),
+    starlight({
+      title,
+      description,
+      social,
+      sidebar,
+      head,
+    }),
+  ],
 });
