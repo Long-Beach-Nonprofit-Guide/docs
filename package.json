@@ -5,15 +5,23 @@
   "scripts": {
     "dev": "astro dev --host",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "eslint && astro check && astro build",
     "preview": "astro preview --host",
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/check": "^0.7.0",
     "@astrojs/starlight": "^0.25.0",
     "astro": "^4.10.2",
-    "sharp": "^0.32.5",
-    "@astrojs/check": "^0.7.0",
-    "typescript": "^5.5.3"
+    "sharp": "^0.32.5"
+  },
+  "devDependencies": {
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.6.0",
+    "@types/eslint__js": "^8.42.3",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.15.0"
   }
 }

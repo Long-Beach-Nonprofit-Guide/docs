@@ -6,7 +6,8 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "unifiedjs.vscode-mdx"
+                "unifiedjs.vscode-mdx",
+                "dbaeumer.vscode-eslint"
             ]
         }
     }
