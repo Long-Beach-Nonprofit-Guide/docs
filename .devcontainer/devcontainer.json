@@ -7,7 +7,8 @@
         "vscode": {
             "extensions": [
                 "unifiedjs.vscode-mdx",
-                "dbaeumer.vscode-eslint"
+                "dbaeumer.vscode-eslint",
+                "streetsidesoftware.code-spell-checker"
             ]
         }
     }
