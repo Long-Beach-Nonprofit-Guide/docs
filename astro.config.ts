@@ -56,6 +56,12 @@ const sidebar: StarlightConfig["sidebar"] = [
     },
   },
   {
+    slug: "timeline",
+  },
+  {
+    slug: "budget",
+  },
+  {
     slug: "appendix",
   },
 ];
