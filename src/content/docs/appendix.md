@@ -9,3 +9,4 @@ This is a list of resources that I found helpful in establishing a 501(c)(3) non
 1. [Public Counsel: Guide to Forming A Charitable, Tax-Exempt, Nonprofit Organization](https://publiccounsel.org/publications/guide-to-forming-a-charitable-tax-exempt-nonprofit-organization-2020/)
 1. [IRS: Life Cycle of a Public Charity](https://www.irs.gov/charities-non-profits/charitable-organizations/life-cycle-of-a-public-charity)
 1. [IRS: Stay Exempt](https://www.stayexempt.irs.gov/)
+1. [Harbor Compliance: How to Start a Nonprofit in California](https://www.harborcompliance.com/how-to-start-a-non-profit-organization-in-california)
