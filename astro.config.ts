@@ -33,71 +33,76 @@ const title: StarlightConfig["title"] = "Long Beach Nonprofit Guide";
 const description: StarlightConfig["description"] = "A guide to starting and running a nonprofit in Long Beach, CA.";
 
 /**
+ * @type {StarlightConfig['favicon']}
+ */
+const favicon: StarlightConfig["favicon"] = "/favicon.png";
+
+/**
  * @type {StarlightConfig['social']}
  */
 const social: StarlightConfig["social"] = {
-  github: "https://github.com/pmwells/lb-nonprofit-guide",
+    github: "https://github.com/pmwells/lb-nonprofit-guide",
 };
 
 /**
  * @type {StarlightConfig['sidebar']}
  */
 const sidebar: StarlightConfig["sidebar"] = [
-  {
-    slug: "overview",
-  },
-  {
-    slug: "scope",
-  },
-  {
-    label: "Steps",
-    autogenerate: {
-      directory: "steps",
+    {
+        slug: "overview",
     },
-  },
-  {
-    slug: "timeline",
-  },
-  {
-    slug: "budget",
-  },
-  {
-    slug: "appendix",
-  },
+    {
+        slug: "scope",
+    },
+    {
+        label: "Steps",
+        autogenerate: {
+            directory: "steps",
+        },
+    },
+    {
+        slug: "timeline",
+    },
+    {
+        slug: "budget",
+    },
+    {
+        slug: "appendix",
+    },
 ];
 
 /**
  * @type {StarlightConfig['head']}
  */
 const head: StarlightConfig["head"] = [
-  {
-    tag: "link" as const,
-    attrs: {
-      rel: "sitemap",
-      href: "/sitemap-index.xml",
+    {
+        tag: "link" as const,
+        attrs: {
+            rel: "sitemap",
+            href: "/sitemap-index.xml",
+        },
     },
-  },
 ];
 
 // Add Google Analytics script in production.
 if (import.meta.env.PROD) {
-  head.push({
-    tag: ("script" as const),
-    attrs: {
-      src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
-      async: true,
-    },
-  });
-  head.push({
-    tag: ("script" as const),
-    content: `
+    head.push({
+        tag: ("script" as const),
+        attrs: {
+            src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
+            async: true,
+        },
+    });
+    head.push({
+        tag: ("script" as const),
+        content: `
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
 			gtag('config', 'G-6M8JZNTXEL');
 		`,
-  });
+    });
 }
 
 /**
@@ -106,16 +111,17 @@ if (import.meta.env.PROD) {
 
 // https://astro.build/config
 export default defineConfig({
-  output,
-  site,
-  integrations: [
-    sitemap(),
-    starlight({
-      title,
-      description,
-      social,
-      sidebar,
-      head,
-    }),
-  ],
+    output,
+    site,
+    integrations: [
+        sitemap(),
+        starlight({
+            title,
+            description,
+            favicon,
+            social,
+            sidebar,
+            head,
+        }),
+    ],
 });
