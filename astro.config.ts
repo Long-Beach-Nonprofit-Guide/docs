@@ -79,14 +79,14 @@ const starlightConfig: StarlightConfig = {
  */
 if (import.meta.env.PROD) {
     starlightConfig.head?.push({
-        tag: ("script" as const),
+        tag: "script",
         attrs: {
             src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
             async: true,
         },
     });
     starlightConfig.head?.push({
-        tag: ("script" as const),
+        tag: "script",
         content: `
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
