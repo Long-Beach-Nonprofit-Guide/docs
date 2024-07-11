@@ -1,21 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-
-/**
- * The type of the Astro config object.
- */
 import sitemap from "@astrojs/sitemap";
-type AstroConfig = typeof defineConfig extends (config: infer T) => unknown ? T : never;
-
-/**
- * @type {AstroConfig['output']}
- */
-const output: AstroConfig["output"] = "static";
-
-/**
- * @type {AstroConfig['site']}
- */
-const site: AstroConfig["site"] = "https://www.lbnonprofitguide.org";
 
 /**
  * The type of the Starlight config object.
@@ -23,77 +8,84 @@ const site: AstroConfig["site"] = "https://www.lbnonprofitguide.org";
 type StarlightConfig = typeof starlight extends (config: infer T) => unknown ? T : never;
 
 /**
- * @type {StarlightConfig['title']}
+ * The Starlight config object.
  */
-const title: StarlightConfig["title"] = "Long Beach Nonprofit Guide";
+const starlightConfig: StarlightConfig = {
+    /**
+     * The title of the site.
+     */
+    title: "Long Beach Nonprofit Guide",
 
-/**
- * @type {StarlightConfig['description']}
- */
-const description: StarlightConfig["description"] = "A guide to starting and running a nonprofit in Long Beach, CA.";
+    /**
+     * The description of the site.
+     */
+    description: "A guide to starting and running a nonprofit in Long Beach, CA.",
 
-/**
- * @type {StarlightConfig['favicon']}
- */
-const favicon: StarlightConfig["favicon"] = "/favicon.png";
+    /**
+     * The favicon of the site.
+     */
+    favicon: "/favicon.png",
 
-/**
- * @type {StarlightConfig['social']}
- */
-const social: StarlightConfig["social"] = {
-    github: "https://github.com/pmwells/lb-nonprofit-guide",
+    /**
+     * Any social media links that should be included in the header.
+     */
+    social: {
+        github: "https://github.com/pmwells/lb-nonprofit-guide",
+    },
+
+    /**
+     * The sidebar navigation configuration.
+     */
+    sidebar: [
+        {
+            slug: "overview",
+        },
+        {
+            slug: "scope",
+        },
+        {
+            label: "Steps",
+            autogenerate: {
+                directory: "steps",
+            },
+        },
+        {
+            slug: "timeline",
+        },
+        {
+            slug: "budget",
+        },
+        {
+            slug: "appendix",
+        },
+    ],
+
+    /**
+     * Additional head elements to include in the document.
+     */
+    head: [
+        {
+            tag: "link",
+            attrs: {
+                rel: "sitemap",
+                href: "/sitemap-index.xml",
+            },
+        },
+    ],
 };
 
 /**
- * @type {StarlightConfig['sidebar']}
+ * If the project is in production, add Google Analytics to the head elements.
  */
-const sidebar: StarlightConfig["sidebar"] = [
-    {
-        slug: "overview",
-    },
-    {
-        slug: "scope",
-    },
-    {
-        label: "Steps",
-        autogenerate: {
-            directory: "steps",
-        },
-    },
-    {
-        slug: "timeline",
-    },
-    {
-        slug: "budget",
-    },
-    {
-        slug: "appendix",
-    },
-];
-
-/**
- * @type {StarlightConfig['head']}
- */
-const head: StarlightConfig["head"] = [
-    {
-        tag: "link" as const,
-        attrs: {
-            rel: "sitemap",
-            href: "/sitemap-index.xml",
-        },
-    },
-];
-
-// Add Google Analytics script in production.
 if (import.meta.env.PROD) {
-    head.push({
+    starlightConfig.head?.push({
         tag: ("script" as const),
         attrs: {
             src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
             async: true,
         },
     });
-    head.push({
+    starlightConfig.head?.push({
         tag: ("script" as const),
         content: `
 			window.dataLayer = window.dataLayer || [];
@@ -106,22 +98,35 @@ if (import.meta.env.PROD) {
 }
 
 /**
- * Define the Astro config object.
+ * The type of the Astro config object.
  */
+type AstroConfig = typeof defineConfig extends (config: infer T) => unknown ? T : never;
 
-// https://astro.build/config
-export default defineConfig({
-    output,
-    site,
+/**
+ * The Astro config object.
+ */
+const astroConfig: AstroConfig = {
+
+    /**
+     * Specifies the output type for the project.
+     */
+    output: "static",
+
+    /**
+     * The URL of the site.
+     */
+    site: "https://www.lbnonprofitguide.org",
+
+    /**
+     * The integration plugins to use.
+     */
     integrations: [
         sitemap(),
-        starlight({
-            title,
-            description,
-            favicon,
-            social,
-            sidebar,
-            head,
-        }),
+        starlight(starlightConfig),
     ],
-});
+};
+
+/**
+ * Define the Astro config object.
+ */
+export default defineConfig(astroConfig);
