@@ -1,6 +1,6 @@
 # Long Beach Nonprofit Guide
 
-This guide is designed to help you navigate the process of starting a nonprofit organization in Long Beach, California. It's based on my experience starting a nonprofit organization in Long Beach and is intended to provide a general overview of the steps involved in the process. Head over to the [Introduction](docs/index.md) to get started.
+This guide is designed to help you navigate the process of starting a nonprofit organization in Long Beach, California. It's based on my experience starting a nonprofit organization in Long Beach and is intended to provide a general overview of the steps involved in the process. See the deployed version of the guide [here](https://www.lbnonprofitguide.org/).
 
 ## Legal Disclaimer
 
