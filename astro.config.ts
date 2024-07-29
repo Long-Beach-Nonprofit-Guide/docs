@@ -56,6 +56,9 @@ const starlightConfig: StarlightConfig = {
             slug: "budget",
         },
         {
+            slug: "operations",
+        },
+        {
             slug: "appendix",
         },
     ],
