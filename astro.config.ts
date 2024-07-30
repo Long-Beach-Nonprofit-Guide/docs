@@ -56,7 +56,10 @@ const starlightConfig: StarlightConfig = {
             slug: "budget",
         },
         {
-            slug: "operations",
+            label: "Operations",
+            autogenerate: {
+                directory: "operations",
+            },
         },
         {
             slug: "appendix",
