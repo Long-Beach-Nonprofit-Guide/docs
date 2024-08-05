@@ -87,7 +87,7 @@ if (import.meta.env.PROD) {
     starlightConfig.head?.push({
         tag: "script",
         attrs: {
-            src: "https://www.googletagmanager.com/gtag/js?id=G-6M8JZNTXEL",
+            src: "https://www.googletagmanager.com/gtag/js?id=G-9B4KXRC6T9",
             async: true,
         },
     });
@@ -95,10 +95,10 @@ if (import.meta.env.PROD) {
         tag: "script",
         content: `
 			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-
-			gtag('config', 'G-6M8JZNTXEL');
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            
+            gtag('config', 'G-9B4KXRC6T9');
 		`,
     });
 }
